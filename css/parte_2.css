@@ -1,0 +1,28 @@
+.parte_gris{
+    width: 375px;
+    display: flex;
+    display: grid;
+
+    margin-left: 12px;
+    grid-column-start: 1;
+    grid-column-end: 8;
+ 
+    border-radius: 10px; 
+    
+    background-color: #cccccc;
+
+}
+
+.text1{
+    text-align: center;
+    width: 27px;
+    height: 20px;
+    background-color: grey;
+    color: white;
+
+    border-radius: 3px;
+
+    margin-top: 175px;
+    margin-left: 10px;
+
+}
